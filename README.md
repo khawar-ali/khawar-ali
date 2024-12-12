@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Khawar Ali
+- 👋 Hi, I’m @khawar-ali
 - 👀 I’m interested in Agentic RAG based chatbots
 - 🌱 I’m currently learning MLOps
 - 💞️ I’m looking to collaborate on NLP and CV related projects
