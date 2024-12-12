@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Khawar Ali
+- 👀 I’m interested in Agentic RAG based chatbots
+- 🌱 I’m currently learning MLOps
+- 💞️ I’m looking to collaborate on NLP and CV related projects
+- 📫 How to reach me: Email: khawar@aidevlab.com
+- ⚡ Fun fact: I have a chess rating of 1600
